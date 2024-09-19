@@ -22,9 +22,7 @@ I'm particularly passionate about game development and always looking for exciti
 ## 🌟 Projects
 Here are some of my notable projects:
 
-1. [Project Name 1](https://github.com/Joker-pyc/project1) - Brief description
-2. [Project Name 2](https://github.com/Joker-pyc/project2) - Brief description
-3. [Project Name 3](https://github.com/Joker-pyc/project3) - Brief description
+uploading soon...
 
 ## 📊 GitHub Stats
 
