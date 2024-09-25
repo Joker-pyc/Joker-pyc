@@ -43,20 +43,27 @@ In the realm of game development, I am both architect and alchemist. With a pale
 </div>
 
 ---
-
 ## 📊 GitHub Constellations
 
 <div align="center">
+
+  <h3>🌟 My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Joker-pyc&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF" alt="Joker-pyc's GitHub Stats" height="180">
+
+  <h3>🔥 GitHub Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joker-pyc&theme=radical&background=0D1117&ring=00FFFF&fire=FF6347&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=00FFFF" alt="GitHub Streak" height="180">
-</div>
 
-<div align="center">
+  <h3>🛠️ Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-pyc&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF" alt="Top Languages" height="200">
+
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Joker-pyc&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" height="200">
+
+  <h3>🔍 Recent Activity</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Joker-pyc&theme=react-dark" alt="Recent Activity" height="200">
+
 </div>
-
 ---
-
 ## 🌟 Upcoming Attractions
 
 <div align="center">
