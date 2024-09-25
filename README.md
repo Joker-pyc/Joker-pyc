@@ -59,8 +59,6 @@ In the realm of game development, I am both creator and explorer. With a toolkit
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-pyc&theme=radical" alt="Contribution Graph" width="100%">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Joker-pyc&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joker-pyc&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Calendar" width="100%">
 </div>
 
