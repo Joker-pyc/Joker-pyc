@@ -1,137 +1,71 @@
+# Santosh Maurya
+### Software Developer | Game Developer | AI Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santosh-maurya-700630215/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg?style=flat-square&logo=firefox-browser)](https://joker-pyc.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg?style=flat-square&logo=gmail)](mailto:santoshmouriya1234567890@gmail.com)
+
+## About Me
+Software developer with a focus on game development and AI applications. I combine technical expertise with creative problem-solving to build engaging digital experiences. Currently working on developing scalable game solutions and exploring applications of machine learning in interactive media.
+
+## 🔧 Technologies & Tools
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Joker-pyc's+Digital+Nexus;Game+Developer+%7C+AI+Architect+%7C+Code+Alchemist&font=Orbitron&center=true&width=800&height=60&duration=4000&pause=1000&color=00FFFF">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joker-pyc&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joker-pyc&theme=default" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/Joker-pyc">
-    <img src="https://img.shields.io/github/followers/Joker-pyc?label=Followers&style=for-the-badge&logo=github&color=00FFFF" alt="GitHub followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Joker-pyc&style=for-the-badge&color=00FFFF" alt="Profile Views">
-  <a href="https://joker-pyc.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Digital%20Realm-00FFFF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/santosh-maurya-700630215/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20%26%20Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:santoshmouriya1234567890@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Summon%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## 🚀 Featured Projects
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" height="200">
-</div>
-
-## 🚀 Mission Control
-
-Greetings, digital pioneer! You've discovered the nexus of innovation and code, where pixels transcend reality and algorithms forge new dimensions. I'm Joker-pyc, a digital architect and game dev virtuoso, sculpting immersive experiences and pushing the boundaries of the digital frontier.
-
----
-
-## 🎮 Game Development: Forging Digital Universes
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400" height="200">
-</div>
-
-In the realm of game development, I am both creator and explorer. With a toolkit of cutting-edge technologies and a boundless imagination, I craft interactive odysseys that challenge perceptions, ignite emotions, and transport players to realms beyond the confines of reality.
-
----
-
-## 🛠️ Quantum Arsenal: Skills & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cs,cpp,react,nodejs,django,unity,unreal,godot,html,css,tensorflow,pytorch,aws,docker,git,ps,blender&perline=10" alt="Skills">
-</div>
-
----
-
-## 📊 Holographic Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joker-pyc&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF" alt="Joker-pyc's GitHub Stats" height="180">
+### Game Development Projects
+- **Project Alpha** - A 3D action-adventure game built with Unity
+  - Implemented advanced character controller system
+  - Designed modular combat mechanics
+  - Integrated procedural level generation
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joker-pyc&theme=radical&background=0D1117&ring=00FFFF&fire=FF6347&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=00FFFF" alt="GitHub Streak" height="180">
+### AI/ML Projects
+- **ML Model Pipeline** - Automated machine learning workflow system
+  - Built with Python and TensorFlow
+  - Handles data preprocessing and model training
+  - Includes performance monitoring dashboard
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-pyc&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF" alt="Top Languages" height="200">
+### Web Applications
+- **E-commerce Platform** - Full-stack web application
+  - React frontend with Node.js backend
+  - Implemented secure payment processing
+  - Built responsive UI with modern design principles
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joker-pyc&theme=radical" alt="Contribution Graph" width="100%">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joker-pyc&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Calendar" width="100%">
-</div>
-
----
-
-## 🌟 Quantum Leaps: Upcoming Innovations
-
-<div align="center">
-  <table>
-    <tr>
-      <td>🕹️ NeuroSphere: A Mind-Bending VR Experience</td>
-    </tr>
-    <tr>
-      <td>🧠 SyntheSys: AI-Driven Procedural Universe Generator</td>
-    </tr>
-    <tr>
-      <td>🌐 EtherScape: Decentralized Metaverse Platform</td>
-    </tr>
-  </table>
-</div>
-
-The cosmic algorithms are aligning. Prepare for revelations that will redefine the boundaries of digital creation and immersive experiences.
+## 📫 Get in Touch
+- LinkedIn: [Santosh Maurya](https://www.linkedin.com/in/santosh-maurya-700630215/)
+- Portfolio: [View Portfolio](https://joker-pyc.github.io/Portfolio/)
+- Email: santoshmouriya1234567890@gmail.com
 
 ---
 
-## 🌱 Evolving Consciousness: Current Quests
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="400" height="200">
-</div>
-
-- 🧠 **Quantum AI**: Exploring the intersection of quantum computing and artificial intelligence
-- 🌌 **Metaverse Architecture**: Designing scalable and immersive digital worlds
-- 🔮 **Neuro-Gaming**: Developing brain-computer interfaces for next-gen gaming experiences
-
----
-
-## 💡 Visionary Pursuits
-
-- 🚀 Pioneering the convergence of AI, blockchain, and immersive technologies
-- 🔮 Exploring the frontiers of human-computer symbiosis and augmented cognition
-- 🌐 Championing decentralized ecosystems that empower creators and innovators globally
-- 📚 Surfing the quantum wave of emerging tech, from biocomputing to nanotech
-
----
-
-## 🤝 Forge Alliances: Let's Rewrite Reality!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="400" height="200">
-</div>
-
-Are you prepared to embark on an odyssey to reshape the digital cosmos? Whether you're a fellow code architect, a visionary designer, or an interdimensional explorer, I'm thrilled to collaborate and create digital wonders that transcend the limits of imagination!
-
-<div align="center">
-  <a href="mailto:santoshmouriya1234567890@gmail.com">
-    <img src="https://img.shields.io/badge/-Initiate%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/santosh-maurya-700630215/">
-    <img src="https://img.shields.io/badge/-Sync%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://joker-pyc.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/-Enter%20My%20Digital%20Realm-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joker-pyc&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
-<div align="center">
-  💞️ <em>Driven by an insatiable curiosity and a passion for pushing technological boundaries. 
-  Together, let's architect the future, one quantum bit at a time!</em>
-</div>
+💡 Open to collaborating on interesting projects in game development, AI, and web applications.
