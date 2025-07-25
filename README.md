@@ -1,100 +1,106 @@
-# Santosh Maurya
-### Software Developer | Game Developer | AI Enthusiast
+# Hi there, I'm Santosh Maurya 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santosh-maurya-700630215/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg?style=flat-square&logo=firefox-browser)](https://joker-pyc.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg?style=flat-square&logo=gmail)](mailto:santoshmouriya1234567890@gmail.com)
+<p align="center">
+<a href="https://github.com/joker-pyc">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Santosh+Maurya;Software+Developer;Game+Developer;AI+Engineer" alt="Typing SVG" />
+</a>
+</p>
 
-## About Me
-Software developer specializing in game development and AI applications. I combine technical expertise with creative problem-solving to build engaging digital experiences. Currently focused on developing scalable game solutions and exploring applications of machine learning in interactive media.
+<p align="center">
+<a href="https://www.linkedin.com/in/santosh-maurya-700630215/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://joker-pyc.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:santoshmouriya1234567890@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
-## 🔧 Technologies & Tools
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=joker-pyc&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Trophy" />
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+## 👨‍💻 About Me
 
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+I'm a passionate developer who enjoys creating engaging and innovative digital experiences. My work spans across game development, AI-powered applications, and modern web solutions. I thrive on solving complex problems and delivering high-quality, user-centric products.
 
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+- 🎮 **Game Development**: Crafting immersive worlds and interactive gameplay using Unity, Three.js, and WebGL
+- 🤖 **AI & Machine Learning**: Building intelligent systems and practical tools with TensorFlow, TensorFlow.js, and Ollama
+- 🌐 **Web Development**: Designing and developing responsive, scalable web applications with the latest frameworks
 
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=robot&logoColor=white)
+## 🛠️ My Tech Stack
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,cpp,unity,threejs,webgl,react,nodejs,django,tensorflow,git" />
+</a>
+</p>
 
-## 📊 GitHub Statistics
+## 🚀 My Projects
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joker-pyc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joker-pyc&theme=github-dark&hide_border=true" />
-</div>
-
-## 🚀 Featured Projects
+Here are some of the projects I'm proud of:
 
 ### 🎮 Game Development
-- **[Virtual Joystick](https://github.com/Joker-pyc/Virtual-Joystick)**
-  - Custom mobile-friendly joystick controller implementation
-  - Smooth input handling and responsive design
-  - Cross-platform compatibility
 
-- **[Game Input Manager](https://github.com/Joker-pyc/Game-Input-Manager)**
-  - Comprehensive input handling system
-  - Support for multiple input devices
-  - Configurable input mapping
-
-- **[THREE-JS Water Simulation](https://github.com/Joker-pyc/THREE-JS-WATER)**
-  - Realistic water rendering and physics
-  - Optimized performance for web browsers
-  - Advanced shader implementations
+| Project | Description |
+|---------|-------------|
+| **Virtual Joystick** | A mobile-friendly joystick controller for web-based games, ensuring smooth and responsive input |
+| **Game Input Manager** | A flexible input management system that supports various devices and customizable key mappings |
+| **THREE.js Water Simulation** | A visually stunning and realistic water simulation using advanced shaders in Three.js |
 
 ### 🤖 AI & Machine Learning
-- **[Ollama Integration](https://github.com/Joker-pyc/ollama-python)**
-  - Python & JavaScript bindings for Ollama AI
-  - Streamlined API integration
-  - Comprehensive documentation and examples
 
-- **[TensorFlow.js Models](https://github.com/Joker-pyc/tfjs-models)**
-  - Browser-based machine learning models
-  - Optimized for real-time processing
-  - Various pre-trained model implementations
+| Project | Description |
+|---------|-------------|
+| **ScriptCraft** | An innovative tool that uses AI to generate personalized handwriting fonts from user input |
+| **Ollama Integration** | Python and JavaScript bindings for the Ollama AI, simplifying API integration and usage |
+| **TensorFlow.js Models** | A collection of real-time, browser-based machine learning models for interactive web experiences |
 
 ### 🌐 Web Applications
-- **[Web Music Visualizer](https://github.com/Joker-pyc/Web-Music-Visualizer-)**
-  - Real-time audio visualization using WebGL
-  - Custom shader effects and animations
-  - Responsive design for all devices
 
-- **[Mentor Match](https://github.com/Joker-pyc/Mentor-Match)**
-  - Platform connecting mentors with mentees
-  - Smart matching algorithm
-  - Real-time communication features
+| Project | Description |
+|---------|-------------|
+| **Web Music Visualizer** | A dynamic audio visualizer with custom shaders and a responsive design for an immersive experience |
+| **Mentor Match** | A smart platform designed to connect mentors and mentees, featuring real-time communication |
 
-### 🛠️ Tools & Utilities
-- **[URL Shortener](https://github.com/Joker-pyc/URL-Shortener)**
-  - Fast and secure URL shortening service
-  - Analytics and click tracking
-  - API integration support
+### 🔧 Utilities
 
-## 📫 Get in Touch
-- LinkedIn: [Santosh Maurya](https://www.linkedin.com/in/santosh-maurya-700630215/)
-- Portfolio: [View Portfolio](https://joker-pyc.github.io/Portfolio/)
-- Email: santoshmouriya1234567890@gmail.com
+| Project | Description |
+|---------|-------------|
+| **GitHub Explorer** | An efficient tool for managing and organizing Git repositories with powerful search and fetch capabilities |
+| **URL Shortener** | A fast and secure URL shortening service with built-in analytics and API support |
+
+## 📊 My GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joker-pyc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joker-pyc&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joker-pyc&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joker-pyc&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects in game development, AI, or web innovation. Let's create something amazing together!
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/santosh-maurya-700630215/)
+- 🌐 Check out my [Portfolio](https://joker-pyc.github.io/Portfolio/)
+- 📧 Reach me at: santoshmouriya1234567890@gmail.com
 
 ---
 
-💡 Open to collaborating on innovative projects in game development, AI, and web applications. Let's build something amazing together!
+<p align="center">
+<i>"The best way to predict the future is to create it."</i>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=joker-pyc&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
